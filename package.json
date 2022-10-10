@@ -1,0 +1,23 @@
+{
+  "name": "online-shop-api",
+  "version": "1.0.0",
+  "description": "Online shop API (mock API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunarEclipse423/online-shop-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lunarEclipse423/online-shop-api/issues"
+  },
+  "homepage": "https://github.com/lunarEclipse423/online-shop-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
