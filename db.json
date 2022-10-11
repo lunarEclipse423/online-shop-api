@@ -4,6 +4,10 @@
       "id": 1,
       "image": "item_1.jpg",
       "title": "Large cork-lid scented candle",
+      "description": "Large scented candle in a glass holder with a cork lid. Burn time 80 hours. Diameter 8.5 cm. Height 15 cm. The scent has been created in collaboration with perfumers from the renowned Robertet perfume house.",
+      "weight": "1,4 kg",
+      "composition": "Container: Glass 100%Lid: Cork 100%Other materials: Paraffin 80%, Plant wax 20%",
+      "quantity": 10,
       "price": 12.99,
       "largeImage": "item_1_large.jpg"
     },
@@ -11,6 +15,10 @@
       "id": 2,
       "image": "item_2.jpg",
       "title": "Large cork-lid scented candle",
+      "description": "Large scented candle in a glass holder with a cork lid. Burn time 80 hours. Diameter 8.5 cm. Height 15 cm. The scent has been created in collaboration with perfumers from the renowned Robertet perfume house.",
+      "weight": "1,2 kg",
+      "composition": "Other materials: Paraffin 80%, Plant wax 20%Lid: Cork 100%Container: Glass 100%",
+      "quantity": 10,
       "price": 12.99,
       "largeImage": "item_2_large.jpg"
     },
@@ -18,6 +26,10 @@
       "id": 3,
       "image": "item_3.jpg",
       "title": "Large cork-lid scented candle",
+      "description": "Large scented candle in a glass holder with a cork lid. Burn time 80 hours. Diameter 8.5 cm. Height 15 cm. The scent has been created in collaboration with perfumers from the renowned Robertet perfume house.",
+      "weight": "1,4 kg",
+      "composition": "Container: Glass 100%Other materials: Paraffin 80%, Plant wax 20%Lid: Cork 100%",
+      "quantity": 10,
       "price": 12.99,
       "largeImage": "item_3_large.jpg"
     },
@@ -25,6 +37,10 @@
       "id": 4,
       "image": "item_4.jpg",
       "title": "Scented candle in a glass jar",
+      "description": "Large, scented wax and paraffin candle in a glass jar with a label and lid. Height 14 cm, diameter at the base 10 cm. Burn time 60 hours.",
+      "weight": "1 kg",
+      "composition": "Paraffin 80%, Plant wax 20%Container: Glass 100%",
+      "quantity": 10,
       "price": 12.99,
       "largeImage": "item_4_large.jpg"
     },
@@ -32,6 +48,10 @@
       "id": 5,
       "image": "item_5.jpg",
       "title": "Cork-lid scented candle",
+      "description": "Scented candle in a glass holder with a cork lid. Burn time 18 hours. Diameter approx. 6.5 cm. Height approx. 6 cm. The scent has been created in collaboration with perfumers from the renowned Robertet perfume house.",
+      "weight": "281 g",
+      "composition": "Lid: Cork 100%Other materials: Paraffin 80%, Plant wax 20%Container: Glass 100%",
+      "quantity": 10,
       "price": 3.99,
       "largeImage": "item_5_large.jpg"
     },
@@ -39,6 +59,10 @@
       "id": 6,
       "image": "item_6.jpg",
       "title": "Cork-lid scented candle",
+      "description": "Scented candle in a glass holder with a cork lid. Burn time 18 hours. Diameter approx. 6.5 cm. Height approx. 6 cm. The scent has been created in collaboration with perfumers from the renowned Robertet perfume house.",
+      "weight": "281 g",
+      "composition": "Other materials: Paraffin 80%, Plant wax 20%Container: Glass 100%Lid: Cork 100%",
+      "quantity": 10,
       "price": 3.99,
       "largeImage": "item_6_large.jpg"
     },
@@ -46,6 +70,10 @@
       "id": 7,
       "image": "item_7.jpg",
       "title": "Scented candle in glass holder",
+      "description": "Scented candle in a glass holder with a tight-fitting wooden lid to help preserve the fragrance. Diameter 8 cm. Height 9 cm. Burn time 32 hours.",
+      "weight": "540 g",
+      "composition": "Container: Glass 100%Lid: Wood 100%Content: Paraffin 95%, Plant wax 5%",
+      "quantity": 10,
       "price": 9.99,
       "largeImage": "item_7_large.jpg"
     },
@@ -53,6 +81,10 @@
       "id": 8,
       "image": "item_8.jpg",
       "title": "Scented candle in glass holder",
+      "description": "Scented candle in a glass holder with a lid. Height 10 cm. Diameter 7.5 cm.",
+      "weight": "630 g",
+      "composition": "Container: Glass 100%Other: Plant wax 100%",
+      "quantity": 10,
       "price": 8.99,
       "largeImage": "item_8_large.jpg"
     },
@@ -60,8 +92,26 @@
       "id": 9,
       "image": "item_9.jpg",
       "title": "Scented candle in glass holder",
+      "description": "Scented candle in a patterned glass holder. Diameter 8 cm, height 11 cm. Burn time 60 hours.",
+      "weight": "604 g",
+      "composition": "Paraffin 80%, Plant wax 20%Container: Glass 100%",
+      "quantity": 10,
       "price": 12.99,
       "largeImage": "item_9_large.jpg"
+    }
+  ],
+  "users": [
+    {
+      "userId": 123456,
+      "username": "arthur",
+      "password": "qwerty",
+      "role": "user"
+    },
+    {
+      "userId": 89101112,
+      "username": "martha",
+      "password": "nonqwerty",
+      "role": "admin"
     }
   ]
 }
