@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/lunarEclipse423/online-shop-api#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "heroku": "^7.65.0",
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "jsonwebtoken": "^8.5.1"
   }
 }
