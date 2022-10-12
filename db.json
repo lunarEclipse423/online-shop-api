@@ -9,7 +9,8 @@
       "composition": "Container: Glass 100%Lid: Cork 100%Other materials: Paraffin 80%, Plant wax 20%",
       "quantity": 10,
       "price": 12.99,
-      "largeImage": "item_1_large.jpg"
+      "largeImage": "item_1_large.jpg",
+      "cartImage": "item_1_cart.jpg"
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "composition": "Other materials: Paraffin 80%, Plant wax 20%Lid: Cork 100%Container: Glass 100%",
       "quantity": 10,
       "price": 12.99,
-      "largeImage": "item_2_large.jpg"
+      "largeImage": "item_2_large.jpg",
+      "cartImage": "item_2_cart.jpg"
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "composition": "Container: Glass 100%Other materials: Paraffin 80%, Plant wax 20%Lid: Cork 100%",
       "quantity": 10,
       "price": 12.99,
-      "largeImage": "item_3_large.jpg"
+      "largeImage": "item_3_large.jpg",
+      "cartImage": "item_3_cart.jpg"
     },
     {
       "id": 4,
@@ -42,7 +45,8 @@
       "composition": "Paraffin 80%, Plant wax 20%Container: Glass 100%",
       "quantity": 10,
       "price": 12.99,
-      "largeImage": "item_4_large.jpg"
+      "largeImage": "item_4_large.jpg",
+      "cartImage": "item_4_cart.jpg"
     },
     {
       "id": 5,
@@ -53,7 +57,8 @@
       "composition": "Lid: Cork 100%Other materials: Paraffin 80%, Plant wax 20%Container: Glass 100%",
       "quantity": 10,
       "price": 3.99,
-      "largeImage": "item_5_large.jpg"
+      "largeImage": "item_5_large.jpg",
+      "cartImage": "item_5_cart.jpg"
     },
     {
       "id": 6,
@@ -64,7 +69,8 @@
       "composition": "Other materials: Paraffin 80%, Plant wax 20%Container: Glass 100%Lid: Cork 100%",
       "quantity": 10,
       "price": 3.99,
-      "largeImage": "item_6_large.jpg"
+      "largeImage": "item_6_large.jpg",
+      "cartImage": "item_6_cart.jpg"
     },
     {
       "id": 7,
@@ -75,7 +81,8 @@
       "composition": "Container: Glass 100%Lid: Wood 100%Content: Paraffin 95%, Plant wax 5%",
       "quantity": 10,
       "price": 9.99,
-      "largeImage": "item_7_large.jpg"
+      "largeImage": "item_7_large.jpg",
+      "cartImage": "item_7_cart.jpg"
     },
     {
       "id": 8,
@@ -86,7 +93,8 @@
       "composition": "Container: Glass 100%Other: Plant wax 100%",
       "quantity": 10,
       "price": 8.99,
-      "largeImage": "item_8_large.jpg"
+      "largeImage": "item_8_large.jpg",
+      "cartImage": "item_8_cart.jpg"
     },
     {
       "id": 9,
@@ -97,7 +105,8 @@
       "composition": "Paraffin 80%, Plant wax 20%Container: Glass 100%",
       "quantity": 10,
       "price": 12.99,
-      "largeImage": "item_9_large.jpg"
+      "largeImage": "item_9_large.jpg",
+      "cartImage": "item_9_cart.jpg"
     }
   ],
   "users": [
@@ -113,5 +122,6 @@
       "password": "nonqwerty",
       "role": "admin"
     }
-  ]
+  ],
+  "cart": []
 }
