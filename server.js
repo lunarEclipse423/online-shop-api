@@ -26,7 +26,7 @@ const isAuthenticated = ({ username, password }) => {
   );
 };
 
-server.post("/auth/login", (req, res) => {
+server.post("/users", (req, res) => {
   const { username, password } = req.body;
   if (!isAuthenticated({ username, password })) {
     const status = 401;
