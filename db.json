@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": 987278001,
       "image": "item_1.jpg",
       "title": "Large cork-lid scented candle",
       "description": "Large scented candle in a glass holder with a cork lid. Burn time 80 hours. Diameter 8.5 cm. Height 15 cm. The scent has been created in collaboration with perfumers from the renowned Robertet perfume house.",
@@ -13,7 +13,7 @@
       "cartImage": "item_1_cart.jpg"
     },
     {
-      "id": 2,
+      "id": 987278003,
       "image": "item_2.jpg",
       "title": "Large cork-lid scented candle",
       "description": "Large scented candle in a glass holder with a cork lid. Burn time 80 hours. Diameter 8.5 cm. Height 15 cm. The scent has been created in collaboration with perfumers from the renowned Robertet perfume house.",
@@ -25,7 +25,7 @@
       "cartImage": "item_2_cart.jpg"
     },
     {
-      "id": 3,
+      "id": 987278002,
       "image": "item_3.jpg",
       "title": "Large cork-lid scented candle",
       "description": "Large scented candle in a glass holder with a cork lid. Burn time 80 hours. Diameter 8.5 cm. Height 15 cm. The scent has been created in collaboration with perfumers from the renowned Robertet perfume house.",
@@ -37,7 +37,7 @@
       "cartImage": "item_3_cart.jpg"
     },
     {
-      "id": 4,
+      "id": 574372008,
       "image": "item_4.jpg",
       "title": "Scented candle in a glass jar",
       "description": "Large, scented wax and paraffin candle in a glass jar with a label and lid. Height 14 cm, diameter at the base 10 cm. Burn time 60 hours.",
@@ -49,7 +49,7 @@
       "cartImage": "item_4_cart.jpg"
     },
     {
-      "id": 5,
+      "id": 993550003,
       "image": "item_5.jpg",
       "title": "Cork-lid scented candle",
       "description": "Scented candle in a glass holder with a cork lid. Burn time 18 hours. Diameter approx. 6.5 cm. Height approx. 6 cm. The scent has been created in collaboration with perfumers from the renowned Robertet perfume house.",
@@ -61,7 +61,7 @@
       "cartImage": "item_5_cart.jpg"
     },
     {
-      "id": 6,
+      "id": 993550001,
       "image": "item_6.jpg",
       "title": "Cork-lid scented candle",
       "description": "Scented candle in a glass holder with a cork lid. Burn time 18 hours. Diameter approx. 6.5 cm. Height approx. 6 cm. The scent has been created in collaboration with perfumers from the renowned Robertet perfume house.",
@@ -73,7 +73,7 @@
       "cartImage": "item_6_cart.jpg"
     },
     {
-      "id": 7,
+      "id": 1090086002,
       "image": "item_7.jpg",
       "title": "Scented candle in glass holder",
       "description": "Scented candle in a glass holder with a tight-fitting wooden lid to help preserve the fragrance. Diameter 8 cm. Height 9 cm. Burn time 32 hours.",
@@ -85,7 +85,7 @@
       "cartImage": "item_7_cart.jpg"
     },
     {
-      "id": 8,
+      "id": 932655002,
       "image": "item_8.jpg",
       "title": "Scented candle in glass holder",
       "description": "Scented candle in a glass holder with a lid. Height 10 cm. Diameter 7.5 cm.",
@@ -97,7 +97,7 @@
       "cartImage": "item_8_cart.jpg"
     },
     {
-      "id": 9,
+      "id": 696742002,
       "image": "item_9.jpg",
       "title": "Scented candle in glass holder",
       "description": "Scented candle in a patterned glass holder. Diameter 8 cm, height 11 cm. Burn time 60 hours.",
